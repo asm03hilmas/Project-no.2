@@ -1,0 +1,383 @@
+1672044660012	geckodriver	INFO	Listening on 127.0.0.1:58764
+1672044663122	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileodJcYx"
+1672044677691	Marionette	INFO	Marionette enabled
+1672044677804	Marionette	INFO	Listening on port 58777
+Read port: 58777
+Read port: 58777
+Read port: 58777
+WebDriver BiDi listening on ws://127.0.0.1:58765
+Read port: 58777
+1672044682596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileodJcYx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58765/devtools/browser/08ee9d77-d67c-4120-b09c-66ace0d729a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672044829669	Marionette	INFO	Stopped listening on port 58777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672422901297	geckodriver	INFO	Listening on 127.0.0.1:55604
+1672422904313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilehYW772"
+1672422908145	Marionette	INFO	Marionette enabled
+1672422908167	Marionette	INFO	Listening on port 55615
+Read port: 55615
+WebDriver BiDi listening on ws://127.0.0.1:55605
+1672422908402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilehYW772\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55605/devtools/browser/b8987db6-33a1-4003-83ef-e4a4c1755972
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672423048444	Marionette	INFO	Stopped listening on port 55615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672423091961	geckodriver	INFO	Listening on 127.0.0.1:55663
+1672423094879	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileEJobAQ"
+1672423097663	Marionette	INFO	Marionette enabled
+1672423097675	Marionette	INFO	Listening on port 55674
+Read port: 55674
+WebDriver BiDi listening on ws://127.0.0.1:55664
+1672423098428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileEJobAQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55664/devtools/browser/b8b98256-e93c-4c8b-8f52-d883e862f0c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672423418012	Marionette	INFO	Stopped listening on port 55674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672423430372	geckodriver	INFO	Listening on 127.0.0.1:55732
+1672423433355	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileY4RneK"
+1672423436987	Marionette	INFO	Marionette enabled
+1672423436999	Marionette	INFO	Listening on port 55743
+Read port: 55743
+WebDriver BiDi listening on ws://127.0.0.1:55733
+1672423437224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileY4RneK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55733/devtools/browser/dbcda750-ad85-491c-8841-b2da5fe247e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672423508021	Marionette	INFO	Stopped listening on port 55743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672423712588	geckodriver	INFO	Listening on 127.0.0.1:55824
+1672423715556	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileYIILNe"
+1672423718416	Marionette	INFO	Marionette enabled
+1672423718427	Marionette	INFO	Listening on port 55835
+Read port: 55835
+WebDriver BiDi listening on ws://127.0.0.1:55825
+1672423719667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileYIILNe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55825/devtools/browser/00536b5d-58a9-4896-ad6f-432af77e08b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672424334668	Marionette	INFO	Stopped listening on port 55835
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 997: Error: Connection is not open.
+1672424632720	geckodriver	INFO	Listening on 127.0.0.1:56097
+1672424636508	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilefFyrNb"
+1672424643593	Marionette	INFO	Marionette enabled
+1672424643667	Marionette	INFO	Listening on port 56119
+Read port: 56119
+Read port: 56119
+WebDriver BiDi listening on ws://127.0.0.1:56098
+1672424649564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilefFyrNb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56098/devtools/browser/11c9bbc3-1501-4dc3-9743-fbc0f4a44c19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672424704750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672424757911	Marionette	INFO	Stopped listening on port 56119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672428684690	geckodriver	INFO	Listening on 127.0.0.1:50046
+1672428687829	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilee7MKAB"
+1672428703787	Marionette	INFO	Marionette enabled
+1672428703900	Marionette	INFO	Listening on port 50074
+Read port: 50074
+Read port: 50074
+Read port: 50074
+WebDriver BiDi listening on ws://127.0.0.1:50047
+Read port: 50074
+1672428713279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilee7MKAB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50047/devtools/browser/e42895be-15a0-4dbd-a9f8-2d6e5f05ef8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672428902302	Marionette	INFO	Stopped listening on port 50074
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672429225525	geckodriver	INFO	Listening on 127.0.0.1:50358
+1672429228599	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofile7bdxDm"
+1672429234938	Marionette	INFO	Marionette enabled
+1672429234950	Marionette	INFO	Listening on port 50376
+Read port: 50376
+WebDriver BiDi listening on ws://127.0.0.1:50359
+1672429235277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofile7bdxDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50359/devtools/browser/a385ad8f-f5af-42b5-a8a2-9f2ddee62c20
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672429392521	Marionette	INFO	Stopped listening on port 50376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672429443159	geckodriver	INFO	Listening on 127.0.0.1:50511
+1672429446187	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilefXCKh1"
+1672429452623	Marionette	INFO	Marionette enabled
+1672429452639	Marionette	INFO	Listening on port 50530
+WebDriver BiDi listening on ws://127.0.0.1:50512
+Read port: 50530
+Read port: 50530
+Read port: 50530
+1672429455646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilefXCKh1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50512/devtools/browser/f7c9135c-5bcd-4311-a994-fd0139afb1a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672429524071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672429580311	Marionette	INFO	Stopped listening on port 50530
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672431325344	geckodriver	INFO	Listening on 127.0.0.1:51700
+1672431328453	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofiledBDwAS"
+1672431348915	Marionette	INFO	Marionette enabled
+1672431349038	Marionette	INFO	Listening on port 51724
+Read port: 51724
+Read port: 51724
+Read port: 51724
+WebDriver BiDi listening on ws://127.0.0.1:51701
+Read port: 51724
+1672431357598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofiledBDwAS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51701/devtools/browser/71a24f95-cca9-407e-9028-4b54f5ae42a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672431444900	Marionette	INFO	Stopped listening on port 51724
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672431603525	geckodriver	INFO	Listening on 127.0.0.1:51844
+1672431606166	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofiletKUkBB"
+1672431609540	Marionette	INFO	Marionette enabled
+1672431609552	Marionette	INFO	Listening on port 51858
+Read port: 51858
+WebDriver BiDi listening on ws://127.0.0.1:51845
+1672431609783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofiletKUkBB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51845/devtools/browser/371b00e6-d7cd-4cee-bd17-6a91f3a1747d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672431719457	Marionette	INFO	Stopped listening on port 51858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672431820672	geckodriver	INFO	Listening on 127.0.0.1:51911
+1672431823687	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilecKyaaR"
+1672431826697	Marionette	INFO	Marionette enabled
+1672431826709	Marionette	INFO	Listening on port 51923
+WebDriver BiDi listening on ws://127.0.0.1:51912
+Read port: 51923
+1672431828405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilecKyaaR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51912/devtools/browser/d78fd27a-b725-4282-8c34-eab9509c8527
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672431913556	Marionette	INFO	Stopped listening on port 51923
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672432240630	geckodriver	INFO	Listening on 127.0.0.1:52042
+1672432243975	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofile5wFqdZ"
+1672432248265	Marionette	INFO	Marionette enabled
+1672432248451	Marionette	INFO	Listening on port 52059
+Read port: 52059
+Read port: 52059
+Read port: 52059
+WebDriver BiDi listening on ws://127.0.0.1:52043
+Read port: 52059
+1672432260170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofile5wFqdZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52043/devtools/browser/743f6f40-92a4-4ac1-83ac-2f992a98eeba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672432413682	Marionette	INFO	Stopped listening on port 52059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672432466947	geckodriver	INFO	Listening on 127.0.0.1:57585
+1672432470058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileTiF09S"
+1672432474557	Marionette	INFO	Marionette enabled
+1672432474573	Marionette	INFO	Listening on port 57601
+Read port: 57601
+WebDriver BiDi listening on ws://127.0.0.1:57586
+1672432475345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileTiF09S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57586/devtools/browser/e8e8c80d-e23c-4999-b125-f6e5eb716af1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672432613660	Marionette	INFO	Stopped listening on port 57601
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672435832539	geckodriver	INFO	Listening on 127.0.0.1:59051
+1672435836211	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilekWX2ze"
+1672435872242	Marionette	INFO	Marionette enabled
+1672435872612	Marionette	INFO	Listening on port 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+Read port: 59089
+WebDriver BiDi listening on ws://127.0.0.1:59052
+Read port: 59089
+Read port: 59089
+1672435887490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofilekWX2ze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59052/devtools/browser/fadf6461-4d9b-491e-9981-d5ecc0ecefc0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672436017600	Marionette	INFO	Stopped listening on port 59089
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672436308925	geckodriver	INFO	Listening on 127.0.0.1:59341
+1672436312040	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileR1gFkM"
+1672436318879	Marionette	INFO	Marionette enabled
+1672436318898	Marionette	INFO	Listening on port 59360
+Read port: 59360
+WebDriver BiDi listening on ws://127.0.0.1:59342
+1672436319761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileR1gFkM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59342/devtools/browser/a8eb9a5c-36b1-4642-bb4d-8eaf360eedb4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672436446138	Marionette	INFO	Stopped listening on port 59360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672439166454	geckodriver	INFO	Listening on 127.0.0.1:60464
+1672439171392	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileOfFARn"
+1672439217563	Marionette	INFO	Marionette enabled
+1672439217712	Marionette	INFO	Listening on port 60509
+Read port: 60509
+Read port: 60509
+Read port: 60509
+WebDriver BiDi listening on ws://127.0.0.1:60465
+Read port: 60509
+1672439229114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileOfFARn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60465/devtools/browser/7b1d6645-d189-407f-b830-2b6bf3ba3021
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672439399495	Marionette	INFO	Stopped listening on port 60509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672439897790	geckodriver	INFO	Listening on 127.0.0.1:60961
+1672439900862	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileI4uDpF"
+1672439910859	Marionette	INFO	Marionette enabled
+1672439910994	Marionette	INFO	Listening on port 60981
+Read port: 60981
+Read port: 60981
+Read port: 60981
+WebDriver BiDi listening on ws://127.0.0.1:60962
+Read port: 60981
+1672439916144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileI4uDpF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60962/devtools/browser/2265cfe4-e237-4fa0-885a-657dbb991f29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672439982875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672440227945	Marionette	INFO	Stopped listening on port 60981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672443114161	geckodriver	INFO	Listening on 127.0.0.1:55814
+1672443117369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofile1Nf6aS"
+1672443134844	Marionette	INFO	Marionette enabled
+1672443134978	Marionette	INFO	Listening on port 55838
+Read port: 55838
+Read port: 55838
+Read port: 55838
+WebDriver BiDi listening on ws://127.0.0.1:55815
+Read port: 55838
+1672443143638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofile1Nf6aS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55815/devtools/browser/0b2b7e77-8793-4d2b-8590-5ef6db5e19d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672443264138	Marionette	INFO	Stopped listening on port 55838
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672443628714	geckodriver	INFO	Listening on 127.0.0.1:56152
+1672443632384	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofiletnbtnA"
+1672443641966	Marionette	INFO	Marionette enabled
+1672443642179	Marionette	INFO	Listening on port 56172
+Read port: 56172
+Read port: 56172
+Read port: 56172
+WebDriver BiDi listening on ws://127.0.0.1:56153
+Read port: 56172
+1672443651226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofiletnbtnA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56153/devtools/browser/951e0ceb-be9f-4166-a512-e42986a9afd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672443715222	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672443736841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1672443765616	Marionette	INFO	Stopped listening on port 56172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672444556661	geckodriver	INFO	Listening on 127.0.0.1:56873
+1672444560115	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileBuWlrb"
+1672444574416	Marionette	INFO	Marionette enabled
+1672444574571	Marionette	INFO	Listening on port 56895
+Read port: 56895
+Read port: 56895
+Read port: 56895
+WebDriver BiDi listening on ws://127.0.0.1:56874
+Read port: 56895
+1672444582781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MRGEEK~1\\AppData\\Local\\Temp\\rust_mozprofileBuWlrb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56874/devtools/browser/177dd530-3047-436d-83f7-df2e60d509e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672444651801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672444725022	Marionette	INFO	Stopped listening on port 56895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
